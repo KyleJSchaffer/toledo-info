@@ -1,0 +1,33 @@
+.local-time-container{
+    float: right;
+    text-align: center;
+}
+
+.page-title{
+    width:50%;
+    text-align: center;
+    margin:auto;
+}
+
+.weather-forecast-container{
+    width:75%;
+    text-align: center;
+    margin:auto;
+}
+
+.news-feed-container{
+    width: 45%;
+    margin-left: 10px;
+    float:left
+}
+
+.twitter-feed-container{
+    width: 45%;
+    margin-left: 10px;
+    float: left;
+}
+
+h2{
+    text-align: center;
+    margin-bottom: 0px
+}
